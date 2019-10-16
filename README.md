@@ -1,7 +1,7 @@
 # RtmpCamera
 FFmpeg 推流手机摄像头，实现直播
 
-这是在下写的音视频系列博文，各位大大指教一下 http://blog.csdn.net/column/details/19352.html
+这是在下写的音视频系列博文，各位大大指教一下 https://jianpanwuzhe.blog.csdn.net/article/category/9271854
 
 Android 音视频深入 十五 FFmpeg 实现基于Rtmp协议的推流（附源码下载）（2018-02-27 19:46）
 
